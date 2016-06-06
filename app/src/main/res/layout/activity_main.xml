@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:background="#47d0ad"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <ListView
+        android:id="@+id/lvList"
+        android:background="#ffffffff"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
+    <FrameLayout
+        android:id="@+id/areaFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></FrameLayout>
+</RelativeLayout>
