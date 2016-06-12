@@ -61,5 +61,5 @@ VMBinder.getDefault().bindFlatView(orderDetailFragment, dataContext, layoutPropM
 + IArraysItemViewBuilder：适用于需要更为灵活的列表项视图构建需求
 + BitmapAsyncBindToolkit：图片加载脚手架，提供异步加载和缓存管理特性
 
-
-  丰富成熟高可用的移动端前后端技术架构积淀，为创业者提供一流的技术保障与效率。
+###About Us
+Sopaco Studio，丰富成熟高可用的移动端前后端技术架构积淀，为创业者提供一流的技术保障与效率。我们在电商、移动阅读、支付系统、蓝牙通讯、智能穿戴领域有丰富的核心技术储备和线上案例，外包合作请联系QQ：871644901，邮箱：dokhell@hotmail.com
