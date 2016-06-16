@@ -62,4 +62,4 @@ VMBinder.getDefault().bindFlatView(orderDetailFragment, dataContext, layoutPropM
 + BitmapAsyncBindToolkit：图片加载脚手架，提供异步加载和缓存管理特性
 
 ###About Us
-Sopaco Studio，丰富成熟高可用的移动端前后端技术架构积淀，为创业者提供一流的技术保障与效率。我们在电商、移动阅读、支付系统、蓝牙通讯、智能穿戴领域有丰富的核心技术储备和线上案例，外包合作请联系QQ：871644901，邮箱：dokhell@hotmail.com
+Sopaco Studio，丰富成熟高可用的移动端前后端技术架构积淀，为创业者提供一流的技术保障与效率。我们在电商、移动阅读、支付系统、蓝牙通讯、智能穿戴领域有丰富的核心技术储备和线上案例，技术合作/兼职请联系QQ：871644901，邮箱：dokhell@hotmail.com
